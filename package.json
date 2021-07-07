@@ -40,7 +40,7 @@
     "type": "git",
     "url": "https://github.com/kuole-o/air-conditioner"
   },
-  "homepage": "https://guole.fun/others/kongtiao",
+  "homepage": "./",
   "dependencies": {
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
