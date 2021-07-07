@@ -9,7 +9,6 @@ import "./AirConditioner.scss";
 import { useAppSelector } from "../../app/hooks";
 
 import { AcMode, selectTemperature } from "./acSlice";
-import { adsenseLink, jumpToAdsense } from "../adsense";
 
 const acColor = {
   border: "#e0e0e0",
