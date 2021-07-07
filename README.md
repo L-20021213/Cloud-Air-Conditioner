@@ -1,61 +1,7 @@
 # Air Conditioner
-
-中文文档 | [English Docs](./README.en.md)
-
-[![Github Pages](https://github.com/YunYouJun/air-conditioner/workflows/Github%20Pages/badge.svg)](https://github.com/YunYouJun/air-conditioner/actions)
-
-云空调，便携小空调，为你的夏日带去清凉！
-
-前世今生：[云空调，便携小空调｜云游君的小站](https://www.yunyoujun.cn/posts/air-conditioner/)
-
-- 裸机：<https://ac.yunyoujun.cn>
-- 样板房：<https://www.yunyoujun.cn/air-conditioner-room/>
-
-## Features
-
-### 优势
-
-- 随时随地打开空调
-- 便携
-- 低功耗（使用 HTML CSS 而非 Canvas 绘制）
-- 静音
-- 操作简单
-- 安装便捷
-
-### 劣势
-
-- 没有风
-
-## 安装
-
-### iframe
-
-```html
-<iframe height="740" src="https://ac.yunyoujun.cn"></iframe>
-```
-
-您可以快速为您的网站安装空调。
-
-样板房：[空调房](https://www.yunyoujun.cn/air-conditioner-room/)
-
-### 上门服务
-
-- Hugo: <https://github.com/kuole-o/Hugo-air-conditioner>
-
-## 自行部署
-
-### Docker
-
-部署时可使用以下环境变量进行配置自定义：
-
-- `AC_NGINX_DOMAIN` 指定域名
-- `AC_NGINX_PORT` 指定监听端口
-
-### 腾讯云
-
-基于腾讯开源项目 [CloudBase Framework](https://github.com/Tencent/cloudbase-framework) 开发部署，支持一键云端部署。
-
-[![腾讯云｜部署到云开发](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2FYunYouJun%2Fair-conditioner%2F&branch=master)
+本项目代码来自：**https://github.com/YunYouJun/air-conditioner** 感谢原作者。
+  
+本页面移除了不需要的内容，使用请在页面留下原作者来源。  
 
 ## Dev
 
