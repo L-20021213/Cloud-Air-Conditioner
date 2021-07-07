@@ -3,6 +3,10 @@
   
 本页面移除了不需要的内容，使用请在页面留下原作者来源。  
 
+## 快速引用
+
+<iframe id="kongtiao" src=""></iframe>
+
 ## Dev
 
 ```bash
